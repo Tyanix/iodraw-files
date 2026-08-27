@@ -61,7 +61,7 @@
         <mxCell id="c20" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;更新门限／风险／置信度&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=24;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="775" y="560" width="263" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="UQVo5VE3_7VQiPYGn3-E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c21" target="c2">
+        <mxCell id="UQVo5VE3_7VQiPYGn3-E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#965f53;" edge="1" parent="1" source="c21" target="c2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c21" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;回放校验与版本发布&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#9B5D52;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
