@@ -10,7 +10,7 @@
         <mxCell id="b1" value="特征层&lt;br style=&quot;font-size: 12px;&quot;&gt;关键状态/相干/关联/任务" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="15.12" y="113.39" width="166.3" height="52.91" as="geometry" />
         </mxCell>
-        <mxCell id="b2" value="动作层&lt;br&gt;候选动作影响记录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b2" value="动作层&lt;br style=&quot;font-size: 12px;&quot;&gt;候选动作影响记录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="15.12" y="196.54" width="166.3" height="52.91" as="geometry" />
         </mxCell>
         <mxCell id="b3" value="规避类&lt;br&gt;避开受扰频段/路径" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
@@ -34,8 +34,8 @@
         <mxCell id="b9" value="输出：安全候选动作集＋动作准入表" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="113.39" y="287.24" width="377.95" height="41.57" as="geometry" />
         </mxCell>
-        <mxCell id="b10" value="动作影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="162.52" y="205.98" width="68.03" height="15.12" as="geometry" />
+        <mxCell id="b10" value="动作影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="170" y="204.09" width="68.03" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b11" value="保护不足则升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="328.82" y="126.99" width="113.39" height="15.12" as="geometry" />
