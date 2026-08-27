@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="技术路线图" id="0">
-    <mxGraphModel dx="2038.72" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="536.69" math="0" shadow="0">
+    <mxGraphModel dx="1287.72" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="536.69" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="b5" value="经典域预分离&lt;br&gt;BSS/JBSS＋投影" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="5.67" y="249.45" width="125.67" height="49.13" as="geometry" />
         </mxCell>
-        <mxCell id="b6" value="量子域联合测量&lt;br&gt;QST＋BQSS 态重构" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b6" value="量子域联合测量&lt;br style=&quot;font-size: 12px;&quot;&gt;QST＋BQSS 态重构" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="161.57" y="249.45" width="125.67" height="49.13" as="geometry" />
         </mxCell>
         <mxCell id="b7" value="智能辅助分离&lt;br&gt;去噪＋动态跟踪" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
@@ -39,9 +39,6 @@
         </mxCell>
         <mxCell id="b11" value="输出至研究内容二&lt;br&gt;只读状态接口" style="rounded=0;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#9B5D52;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=1;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="215.43" y="419.53" width="173.86" height="49.13" as="geometry" />
-        </mxCell>
-        <mxCell id="b12" value="J&lt;sub&gt;type&lt;/sub&gt; 干扰类型｜{J&lt;sub&gt;k&lt;/sub&gt;} 干扰参数｜κ,Λ 信道参数&lt;br&gt;F&lt;sub&gt;Q&lt;/sub&gt; 可分性界｜ρ,σ 置信度｜C,E 相干/关联｜任务信息分布" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="166.3" y="474.33" width="377.95" height="30.24" as="geometry" />
         </mxCell>
         <mxCell id="b13" value="算符/统计先验" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="317.48" y="63.5" width="83.15" height="15.12" as="geometry" />
