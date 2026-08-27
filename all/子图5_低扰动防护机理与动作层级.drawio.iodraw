@@ -16,13 +16,13 @@
         <mxCell id="b3" value="规避类&lt;br style=&quot;font-size: 12px;&quot;&gt;避开受扰频段/路径" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="234.33" y="22.68" width="166.3" height="41.57" as="geometry" />
         </mxCell>
-        <mxCell id="b4" value="选择类&lt;br&gt;切换已标定候选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b4" value="选择类&lt;br style=&quot;font-size: 12px;&quot;&gt;切换已标定候选" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="234.33" y="83.15" width="166.3" height="41.57" as="geometry" />
         </mxCell>
-        <mxCell id="b5" value="有限补偿类&lt;br&gt;波前/偏振/时延补偿" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b5" value="有限补偿类&lt;br style=&quot;font-size: 12px;&quot;&gt;波前/偏振/时延补偿" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="234.33" y="143.62" width="166.3" height="41.57" as="geometry" />
         </mxCell>
-        <mxCell id="b6" value="回退类&lt;br&gt;恢复预置安全状态" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F3E4E1;strokeColor=#9B5D52;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b6" value="回退类&lt;br style=&quot;font-size: 12px;&quot;&gt;恢复预置安全状态" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F3E4E1;strokeColor=#9B5D52;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="234.33" y="204.09" width="166.3" height="41.57" as="geometry" />
         </mxCell>
         <mxCell id="b7" value="联合评价&lt;br&gt;干扰削弱—特征损伤&lt;br&gt;任务保持—切换代价" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
