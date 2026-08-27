@@ -28,9 +28,6 @@
         <mxCell id="b7" value="联合评价&lt;br style=&quot;font-size: 12px;&quot;&gt;干扰削弱—特征损伤&lt;br style=&quot;font-size: 12px;&quot;&gt;任务保持—切换代价" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="423.31" y="52.91" width="166.3" height="83.15" as="geometry" />
         </mxCell>
-        <mxCell id="b8" value="硬约束&lt;br&gt;保持率≥70%&lt;br&gt;源功能不失效" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#9B5D52;fontColor=#9B5D52;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.4;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="423.31" y="166.3" width="166.3" height="68.03" as="geometry" />
-        </mxCell>
         <mxCell id="b9" value="输出：安全候选动作集＋动作准入表" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="113.39" y="287.24" width="377.95" height="41.57" as="geometry" />
         </mxCell>
@@ -42,9 +39,6 @@
         </mxCell>
         <mxCell id="b12" value="候选动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="370" y="68.03" width="60.47" height="15.12" as="geometry" />
-        </mxCell>
-        <mxCell id="b13" value="准入门槛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="517.8" y="147.4" width="68.03" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b14" value="动作准入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="417.64" y="243.78" width="52.91" height="15.12" as="geometry" />
@@ -92,12 +86,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.63" y="94.49" as="sourcePoint" />
             <mxPoint x="423.31" y="94.49" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="506.46" y="166.3" as="sourcePoint" />
-            <mxPoint x="506.46" y="136.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
