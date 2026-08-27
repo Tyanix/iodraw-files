@@ -40,11 +40,8 @@
         <mxCell id="b12" value="候选动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="370" y="68.03" width="60.47" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b14" value="动作准入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+        <mxCell id="b14" value="动作准入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="417.64" y="243.78" width="52.91" height="15.12" as="geometry" />
-        </mxCell>
-        <mxCell id="b15" value="回退对" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="328.82" y="260.79" width="60.47" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
