@@ -29,10 +29,10 @@
           <mxGeometry x="362.83" y="196.54" width="226.77" height="52.91" as="geometry" />
         </mxCell>
         <mxCell id="b8" value="融合值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="453.55" y="139.84" width="60.47" height="15.12" as="geometry" />
+          <mxGeometry x="460" y="71.81" width="60.47" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b9" value="判决结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="514.02" y="166.3" width="75.59" height="15.12" as="geometry" />
+        <mxCell id="b9" value="判决结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="476.21999999999997" y="154.96" width="75.59" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
