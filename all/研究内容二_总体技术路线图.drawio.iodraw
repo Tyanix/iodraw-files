@@ -64,11 +64,11 @@
         <mxCell id="b23" value="参数更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="381.39" y="148.49999999999997" width="60.47" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b24" value="联试集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+        <mxCell id="b24" value="联试集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="313.36" y="378.14" width="60.47" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b25" value="候选修正" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="502.34" y="380.79" width="60.47" height="15.12" as="geometry" />
+        <mxCell id="b25" value="候选修正" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="490" y="370" width="60.47" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b26" value="实线＝数据流　　红虚线＝跨研究内容接口/模型回修　　回环＝运行闭环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="11" y="573.55" width="574.49" height="15.12" as="geometry" />
