@@ -25,7 +25,7 @@
         <mxCell id="b8" value="接收再评价&lt;br&gt;执行效果双判定" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="177.29999999999998" y="303.46" width="158.74" height="45.35" as="geometry" />
         </mxCell>
-        <mxCell id="b10" value="保持/切换/回退" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=12;fontFamily=Times New Roman,SimSun;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="b10" value="&lt;div&gt;执行操作&lt;/div&gt;保持/切换/回退" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=12;fontFamily=Times New Roman,SimSun;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="358.71" y="258.11" width="90.71" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b11" value="半实物原理验证平台（≥2 类受扰场景）" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=top;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
