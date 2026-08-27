@@ -1,0 +1,139 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="技术路线图" id="0">
+    <mxGraphModel dx="389" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="287.24" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b0" value="量子态估计 ρ&lt;br&gt;协方差 Δρ" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="15.12" y="109.61" width="105.83" height="60.47" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="态保真度目击 W&lt;sub&gt;F&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="166.3" y="18.9" width="143.62" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="子空间目击 W&lt;sub&gt;sub&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="166.3" y="79.37" width="143.62" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="非线性判据&lt;br&gt;PPT/CCNR" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="166.3" y="139.84" width="143.62" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="无监督学习目击" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="166.3" y="200.31" width="143.62" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="多目击融合&lt;br&gt;阈值自适应" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="362.83" y="86.93" width="113.39" height="52.91" as="geometry" />
+        </mxCell>
+        <mxCell id="b6" value="H&lt;sub&gt;0&lt;/sub&gt;/H&lt;sub&gt;1&lt;/sub&gt;&lt;br&gt;假设检验" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="498.9" y="86.93" width="90.71" height="52.91" as="geometry" />
+        </mxCell>
+        <mxCell id="b7" value="判决输出：PD/FAR&lt;br&gt;异常类型＋置信度 σ&lt;sub&gt;a&lt;/sub&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="362.83" y="196.54" width="226.77" height="52.91" as="geometry" />
+        </mxCell>
+        <mxCell id="b8" value="融合值" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="457.32" y="96.38" width="60.47" height="15.12" as="geometry" />
+        </mxCell>
+        <mxCell id="b9" value="判决结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="514.02" y="166.3" width="75.59" height="15.12" as="geometry" />
+        </mxCell>
+        <mxCell id="b10" value="指南指标：≥4类干扰 准确率≥90% 虚警率≤5%" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="15.12" y="234.33" width="226.77" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.94" y="139.84" as="sourcePoint" />
+            <mxPoint x="166.3" y="41.57" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="143.62" y="139.84" />
+              <mxPoint x="143.62" y="41.57" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.94" y="139.84" as="sourcePoint" />
+            <mxPoint x="166.3" y="102.05" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="143.62" y="139.84" />
+              <mxPoint x="143.62" y="102.05" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.94" y="139.84" as="sourcePoint" />
+            <mxPoint x="166.3" y="162.52" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="143.62" y="139.84" />
+              <mxPoint x="143.62" y="162.52" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120.94" y="139.84" as="sourcePoint" />
+            <mxPoint x="166.3" y="222.99" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="143.62" y="139.84" />
+              <mxPoint x="143.62" y="222.99" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.92" y="41.57" as="sourcePoint" />
+            <mxPoint x="362.83" y="113.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336.38" y="41.57" />
+              <mxPoint x="336.38" y="113.39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.92" y="222.99" as="sourcePoint" />
+            <mxPoint x="362.83" y="113.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336.38" y="222.99" />
+              <mxPoint x="336.38" y="113.39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.92" y="102.05" as="sourcePoint" />
+            <mxPoint x="362.83" y="113.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336.38" y="102.05" />
+              <mxPoint x="336.38" y="113.39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309.92" y="162.52" as="sourcePoint" />
+            <mxPoint x="362.83" y="113.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336.38" y="162.52" />
+              <mxPoint x="336.38" y="113.39" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476.22" y="113.39" as="sourcePoint" />
+            <mxPoint x="498.9" y="113.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="544.25" y="139.84" as="sourcePoint" />
+            <mxPoint x="476.22" y="196.54" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="544.25" y="181.42" />
+              <mxPoint x="476.22" y="181.42" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
