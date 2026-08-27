@@ -16,7 +16,7 @@
         <mxCell id="b3" value="含干扰信道建模&lt;br&gt;H(κ, Λ)＋四类干扰" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="215.43" y="147.4" width="173.86" height="49.13" as="geometry" />
         </mxCell>
-        <mxCell id="b4" value="信道状态感知&lt;br style=&quot;font-size: 12px;&quot;&gt;输出状态&lt;br style=&quot;font-size: 12px;&quot;&gt;不做决策" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EFEC;strokeColor=#668F89;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b4" value="信道状态感知&lt;br style=&quot;font-size: 12px;&quot;&gt;输出状态&lt;br style=&quot;font-size: 12px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EFEC;strokeColor=#668F89;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="408.19" y="147.4" width="128.5" height="60.47" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="经典域预分离&lt;br&gt;BSS/JBSS＋投影" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
