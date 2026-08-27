@@ -16,7 +16,7 @@
         <mxCell id="b5" value="慢速外环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="139.5" y="167.4" width="75.59" height="18.9" as="geometry" />
         </mxCell>
-        <mxCell id="b6" value="快速内环 ≤1 ms&lt;br&gt;触发→剪枝→下发" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+        <mxCell id="b6" value="快速内环 ≤1 ms" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="177.29999999999998" y="193.85999999999999" width="158.74" height="49.13" as="geometry" />
         </mxCell>
         <mxCell id="b7" value="版本化状态表" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4E8DB;strokeColor=#BF8550;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
