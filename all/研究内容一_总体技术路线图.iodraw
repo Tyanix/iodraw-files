@@ -67,7 +67,7 @@
         <mxCell id="b20" value="高保&lt;br style=&quot;font-size: 12px;&quot;&gt;真态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="443.15" y="237" width="26.85" height="31.75" as="geometry" />
         </mxCell>
-        <mxCell id="b21" value="异常判决＋置信度分析" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+        <mxCell id="b21" value="置信度分析+异常判决" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="359.06" y="314.83" width="98.27" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b22" value="状态输出" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
