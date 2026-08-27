@@ -76,9 +76,6 @@
         <mxCell id="b23" value="回路B：经复核数据回修" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="393.07" y="426.33" width="166.3" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b24" value="实线＝数据流　　红虚线＝跨研究内容接口/模型回修" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="15.12" y="521.57" width="574.49" height="15.12" as="geometry" />
-        </mxCell>
         <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="302.36" y="60.47" as="sourcePoint" />
