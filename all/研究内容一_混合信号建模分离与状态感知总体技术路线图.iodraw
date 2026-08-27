@@ -1,0 +1,130 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="overview1" name="Page-1">
+    <mxGraphModel dx="2049" dy="1054" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1123" pageHeight="794" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c2" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F4F5F6;strokeColor=#D8DEE2;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="35" y="82" width="1053" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="c3" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;观测—建模—感知—分离主链&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="35" y="82" width="1053" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c4" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;fillColor=#F4F5F6;strokeColor=#D8DEE2;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="35" y="395" width="1053" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="c5" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;只读状态输出、前级验证与模型回修&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
+          <mxGeometry x="35" y="395" width="1053" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="c6" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;经典—量子混合信号建模、分离与状态感知技术路线图&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=34;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
+          <mxGeometry width="1123" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="c7" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;经典—量子&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;混合观测&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#BF8550;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="65" y="170" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c8" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;统一建模&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;参数校验&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="285" y="160" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c9" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;受扰信道&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;状态感知&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="545" y="160" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c10" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;级联分离&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;异常识别&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="815" y="160" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c11" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;详见子图&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;1&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="342" y="278" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c12" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;详见子图&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;2&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="607" y="278" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c13" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;详见子图&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;3&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="888" y="278" width="95" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="c14" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;≥4&lt;/span&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;类，准确&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;≥90%&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;虚警率&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;≤5%&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#BF8550;strokeWidth=2;fontColor=#263640;fontSize=22;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="815" y="310" width="240" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="c15" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;只读状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;接口&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4F5F6;strokeColor=#D8DEE2;strokeWidth=2;fontColor=#263640;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="65" y="490" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="c16" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;干扰／信道参数&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;界值／置信度／任务分布&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="305" y="480" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c17" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;前级半实物验证&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;五组指标评价&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4F5F6;strokeColor=#D8DEE2;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="785" y="480" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c18" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;样本日志回灌&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;模型回修&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;B&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#9B5D52;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="420" y="635" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c19" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;经校验模型&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;异常判决状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+          <mxGeometry x="780" y="635" width="275" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c20" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c7" target="c8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c21" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;观测先验&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="210" y="130" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c22" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c8" target="c9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c23" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;联合模型&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="470" y="130" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c9" target="c10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c25" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;状态界值&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="735" y="130" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;dashed=1;dashPattern=8 6;strokeColor=#9B5D52;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c10" target="c15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="935" y="382" />
+              <mxPoint x="160" y="382" />
+              <mxPoint x="160" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c27" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;判决状态&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#9B5D52;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="900" y="350" width="100" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="c28" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c15" target="c16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c29" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;状态帧&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=23;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="240" y="448" width="90" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c30" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c16" target="c17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c31" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;验证输入&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=23;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="710" y="448" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c32" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c17" target="c18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c33" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;样本日志&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=23;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="820" y="600" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c18" target="c19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c35" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;校验结果&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=23;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="705" y="620" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="c36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;dashed=1;dashPattern=8 6;strokeColor=#9B5D52;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c18" target="c8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="386" />
+              <mxPoint x="390" y="386" />
+              <mxPoint x="390" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="c37" value="&lt;div&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;模型回修&lt;/span&gt;&lt;span style=&quot;font-family:Times New Roman;&quot;&gt;B&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#9B5D52;fontSize=23;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="410" y="345" width="120" height="28" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
