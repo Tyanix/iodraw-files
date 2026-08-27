@@ -40,8 +40,8 @@
         <mxCell id="b11" value="保护不足则升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="328.82" y="126.99" width="113.39" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b12" value="候选动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="370.39" y="77.48" width="60.47" height="15.12" as="geometry" />
+        <mxCell id="b12" value="候选动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="370" y="68.03" width="60.47" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b13" value="准入门槛" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="517.8" y="147.4" width="68.03" height="15.12" as="geometry" />
