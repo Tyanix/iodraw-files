@@ -56,7 +56,7 @@
           <mxGeometry x="188.64" y="568.03" width="196.54" height="37.8" as="geometry" />
         </mxCell>
         <mxCell id="b20" value="安全候选" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="226.43" y="74.79999999999998" width="60.47" height="15.12" as="geometry" />
+          <mxGeometry x="240" y="69.99999999999999" width="60.47" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b21" value="候选簇" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="309.58" y="169.29" width="52.91" height="15.12" as="geometry" />
@@ -64,7 +64,7 @@
         <mxCell id="b22" value="下发执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="268.01" y="289.48" width="60.47" height="15.12" as="geometry" />
         </mxCell>
-        <mxCell id="b23" value="版本更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+        <mxCell id="b23" value="参数更新" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="388.95" y="146.60999999999999" width="60.47" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b24" value="联试集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
