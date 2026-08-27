@@ -68,25 +68,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c23" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 20px;&quot;&gt;状态快照&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="38" y="196" width="82" height="22" as="geometry" />
+          <mxGeometry x="38" y="196" width="92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c8" target="c9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c25" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 20px;&quot;&gt;风险状态&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="38" y="264" width="82" height="22" as="geometry" />
+          <mxGeometry x="38" y="264" width="92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c26" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c9" target="c10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c27" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 20px;&quot;&gt;触发结果&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="38" y="332" width="82" height="22" as="geometry" />
+          <mxGeometry x="38" y="332" width="92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c28" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c10" target="c11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c29" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 20px;&quot;&gt;候选索引&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="38" y="400" width="82" height="22" as="geometry" />
+          <mxGeometry x="38" y="400" width="92" height="22" as="geometry" />
         </mxCell>
         <mxCell id="c30" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;rounded=0;html=1;strokeColor=#263640;strokeWidth=2.4;endArrow=block;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="c11" target="c12" edge="1">
           <mxGeometry relative="1" as="geometry" />
