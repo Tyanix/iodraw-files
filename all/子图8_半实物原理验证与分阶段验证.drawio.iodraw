@@ -1,0 +1,156 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="技术路线图" id="0">
+    <mxGraphModel dx="818" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="461.1" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b0" value="可替换量子源&lt;br&gt;与链路" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="30.24" width="105.83" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="经典背景&lt;br&gt;与干扰源" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="136.06" y="30.24" width="105.83" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="可控信息通道" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="253.23" y="30.24" width="105.83" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="接收检测与&lt;br&gt;特征评价" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="370.39" y="30.24" width="105.83" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="闭环控制与&lt;br&gt;数据记录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="487.56" y="30.24" width="105.83" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="通道重构指令" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="355.28" y="92.6" width="83.15" height="15.12" as="geometry" />
+        </mxCell>
+        <mxCell id="b6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="136.06" width="566.93" height="90.71" as="geometry" />
+        </mxCell>
+        <mxCell id="b7" value="三组对照（同一对象、扰动轨迹、采集窗口）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="141.73" width="566.93" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="b8" value="无防护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="60.47" y="170.08" width="120.94" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="b9" value="静态防护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="241.89" y="170.08" width="120.94" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="b10" value="动态闭环防护" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="423.31" y="170.08" width="120.94" height="37.8" as="geometry" />
+        </mxCell>
+        <mxCell id="b11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="249.45" width="566.93" height="98.27" as="geometry" />
+        </mxCell>
+        <mxCell id="b12" value="分阶段验证（阶段间设证据门）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="255.12" width="566.93" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="b13" value="阶段Ⅰ&lt;br&gt;单维动作标定" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="37.8" y="283.46" width="120.94" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b14" value="阶段Ⅱ&lt;br&gt;三维联合重构" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="179.53" y="283.46" width="120.94" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b15" value="阶段Ⅲ&lt;br&gt;动态扰动闭环" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="321.26" y="283.46" width="120.94" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b16" value="阶段Ⅳ&lt;br&gt;对象替换复核" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="462.99" y="283.46" width="120.94" height="45.35" as="geometry" />
+        </mxCell>
+        <mxCell id="b17" value="证据门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="151.18" y="291.02" width="45.35" height="13.23" as="geometry" />
+        </mxCell>
+        <mxCell id="b18" value="证据门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="292.91" y="291.02" width="45.35" height="13.23" as="geometry" />
+        </mxCell>
+        <mxCell id="b19" value="证据门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="434.65" y="291.02" width="45.35" height="13.23" as="geometry" />
+        </mxCell>
+        <mxCell id="b20" value="样本日志&lt;br&gt;快照—动作—结果—复核" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="18.9" y="370.39" width="166.3" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b21" value="回灌慢速外环&lt;br&gt;修正候选/门限/置信度" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EFEC;strokeColor=#668F89;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="219.21" y="370.39" width="181.42" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b22" value="经复核数据&lt;br&gt;回传前级模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F3E4E1;strokeColor=#9B5D52;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="434.65" y="370.39" width="151.18" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b23" value="回路B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
+          <mxGeometry x="370.39" y="357.17" width="60.47" height="13.23" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="124.72" y="54.8" as="sourcePoint" />
+            <mxPoint x="136.06" y="54.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="241.89" y="54.8" as="sourcePoint" />
+            <mxPoint x="253.23" y="54.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="359.06" y="54.8" as="sourcePoint" />
+            <mxPoint x="370.39" y="54.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="476.22" y="54.8" as="sourcePoint" />
+            <mxPoint x="487.56" y="54.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#9B5D52;strokeWidth=1.2;dashed=1;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="566.93" y="79.37" as="sourcePoint" />
+            <mxPoint x="268.35" y="79.37" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="566.93" y="102.05" />
+              <mxPoint x="268.35" y="102.05" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158.74" y="306.14" as="sourcePoint" />
+            <mxPoint x="179.53" y="306.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300.47" y="306.14" as="sourcePoint" />
+            <mxPoint x="321.26" y="306.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="442.2" y="306.14" as="sourcePoint" />
+            <mxPoint x="462.99" y="306.14" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.36" y="347.72" as="sourcePoint" />
+            <mxPoint x="102.05" y="370.39" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="302.36" y="359.06" />
+              <mxPoint x="102.05" y="359.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185.2" y="394.96" as="sourcePoint" />
+            <mxPoint x="219.21" y="394.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400.63" y="394.96" as="sourcePoint" />
+            <mxPoint x="434.65" y="394.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
