@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="技术路线图" id="0">
-    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="687.87" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="687.87" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="211.31" y="95.59" width="173.86" height="45.35" as="geometry" />
         </mxCell>
         <mxCell id="b4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
-          <mxGeometry x="131.94" y="163.62" width="332.6" height="249.45" as="geometry" />
+          <mxGeometry x="131.94" y="163.62" width="332.6" height="206.38" as="geometry" />
         </mxCell>
         <mxCell id="b5" value="慢速外环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="139.5" y="167.4" width="75.59" height="18.9" as="geometry" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="b8" value="接收再评价&lt;br&gt;执行效果双判定" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
           <mxGeometry x="177.29999999999998" y="303.46" width="158.74" height="45.35" as="geometry" />
-        </mxCell>
-        <mxCell id="b9" value="计时边界：命令接受→各维到达并确认 ≤1 ms" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="147.06" y="360.15999999999997" width="302.36" height="18.9" as="geometry" />
         </mxCell>
         <mxCell id="b10" value="保持/切换/回退" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#9B5D52;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="358.71" y="258.11" width="90.71" height="15.12" as="geometry" />
