@@ -59,13 +59,13 @@
           <mxGeometry x="351.5" y="213.54" width="105.83" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b18" value="残差&lt;br style=&quot;font-size: 12px;&quot;&gt;信号" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="131.34" y="245.67" width="22.68" height="31.75" as="geometry" />
+          <mxGeometry x="127.64" y="237" width="38.66" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="b19" value="特征&lt;br style=&quot;font-size: 12px;&quot;&gt;置信" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="287.24" y="245.67" width="22.68" height="31.75" as="geometry" />
+          <mxGeometry x="287.24" y="237" width="32.76" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="b20" value="高保&lt;br style=&quot;font-size: 12px;&quot;&gt;真态" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="443.15000000000003" y="245.67" width="22.68" height="31.75" as="geometry" />
+          <mxGeometry x="443.15000000000003" y="237" width="22.68" height="31.75" as="geometry" />
         </mxCell>
         <mxCell id="b21" value="异常判决＋置信度" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="359.06" y="314.83" width="98.27" height="15.12" as="geometry" />
