@@ -35,7 +35,7 @@
           <mxGeometry x="113.39" y="287.24" width="377.95" height="41.57" as="geometry" />
         </mxCell>
         <mxCell id="b10" value="动作影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
-          <mxGeometry x="170" y="204.09" width="68.03" height="15.12" as="geometry" />
+          <mxGeometry x="173" y="204.09" width="68.03" height="15.12" as="geometry" />
         </mxCell>
         <mxCell id="b11" value="保护不足则升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=9;fontFamily=Times New Roman,SimSun;" parent="1" vertex="1">
           <mxGeometry x="328.82" y="126.99" width="113.39" height="15.12" as="geometry" />
@@ -114,9 +114,6 @@
             <mxPoint x="317.48" y="245.67" as="sourcePoint" />
             <mxPoint x="317.48" y="287.24" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="b6A4liwqeJOLlHvms4YB-1" value="动作影响" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;" vertex="1" parent="1">
-          <mxGeometry x="180" y="228.66" width="68.03" height="15.12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
