@@ -16,7 +16,7 @@
         <mxCell id="c5" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;再评价与慢速外环&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="725" y="86" width="363" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="c6" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;双时间尺度闭环调控、执行确认与回退技术路线图&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=38;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
+        <mxCell id="c6" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;闭环调控过程&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=38;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
           <mxGeometry width="1123" height="56" as="geometry" />
         </mxCell>
         <mxCell id="c7" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;同步状态快照&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=26;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
