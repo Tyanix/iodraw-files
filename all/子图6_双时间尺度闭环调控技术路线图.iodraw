@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="sub6" name="Page-1">
-    <mxGraphModel dx="1728" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1123" pageHeight="794" math="0" shadow="0">
+    <mxGraphModel dx="2440" dy="1292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1123" pageHeight="794" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="c5" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;再评价与慢速外环&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="725" y="86" width="363" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="c7" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;同步状态快照&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=26;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+        <mxCell id="c7" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;状态检查&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=26;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="125" y="150" width="480" height="52" as="geometry" />
         </mxCell>
         <mxCell id="c8" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;置信度检查与风险评价&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;fontColor=#263640;fontSize=26;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
