@@ -1,11 +1,11 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="sub6" name="Page-1">
-    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1123" pageHeight="794" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1123" pageHeight="794" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="h7m3yFqv_zjUUuoG04ex-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d8dee2;fillColor=#f4f5f6;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="33" y="130" width="659" height="620" as="geometry" />
+          <mxGeometry x="40" y="130" width="652" height="620" as="geometry" />
         </mxCell>
         <mxCell id="c3" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;快速内环：安全状态切换&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;fontColor=#FFFFFF;fontSize=27;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="35" y="86" width="660" height="46" as="geometry" />
