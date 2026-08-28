@@ -23,7 +23,7 @@
           <mxGeometry x="125" y="218" width="480" height="52" as="geometry" />
         </mxCell>
         <mxCell id="c9" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;分层触发：保持／预警／安全&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#BF8550;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
-          <mxGeometry x="125" y="286" width="480" height="52" as="geometry" />
+          <mxGeometry x="126" y="293" width="480" height="52" as="geometry" />
         </mxCell>
         <mxCell id="c10" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;对象化子资源池索引&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=26;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="125" y="366.75" width="480" height="52" as="geometry" />
