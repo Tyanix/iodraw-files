@@ -52,7 +52,7 @@
         <mxCell id="c19" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;成功／失败样本分流&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#F4F5F6;strokeColor=#D8DEE2;strokeWidth=2;fontColor=#263640;fontSize=25;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="775" y="460" width="263" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="c20" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;更新门限／风险／置信度&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=24;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
+        <mxCell id="c20" value="&lt;div&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;更新控制算法&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=14;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;fontColor=#263640;fontSize=24;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=6;" parent="1" vertex="1">
           <mxGeometry x="775" y="560" width="263" height="68" as="geometry" />
         </mxCell>
         <mxCell id="UQVo5VE3_7VQiPYGn3-E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#965f53;strokeWidth=3;dashed=1;dashPattern=8 8;" parent="1" source="c21" target="h7m3yFqv_zjUUuoG04ex-2" edge="1">
