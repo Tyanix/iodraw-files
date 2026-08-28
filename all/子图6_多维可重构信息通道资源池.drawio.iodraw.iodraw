@@ -1,0 +1,55 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="技术路线图" id="0">
+    <mxGraphModel dx="2074" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="604.72" pageHeight="415.75" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="b0" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;对象适配层&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;按量子对象与任务筛选允许维度组合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="30.24" y="22.68" width="544.25" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4F5F6;strokeColor=#D8DEE2;fontColor=#263640;fontSize=12;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="30.24" y="94.49" width="544.25" height="136.06" as="geometry" />
+        </mxCell>
+        <mxCell id="b2" value="多维状态层（每状态带标签，支持 ≥3 维联合）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="30.24" y="100.16" width="544.25" height="18.9" as="geometry" />
+        </mxCell>
+        <mxCell id="b3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;频率维&lt;/b&gt;&lt;br&gt;频槽/带宽&lt;br&gt;映射/端口&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="30.240000000000002" y="125" width="120.94" height="83.15" as="geometry" />
+        </mxCell>
+        <mxCell id="b4" value="&lt;b&gt;空间维&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;路径/模式&lt;br style=&quot;font-size: 14px;&quot;&gt;波前补偿" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="170.08999999999997" y="125" width="120.94" height="83.15" as="geometry" />
+        </mxCell>
+        <mxCell id="b5" value="&lt;b&gt;时间维&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;时隙/门控&lt;br style=&quot;font-size: 14px;&quot;&gt;时延/同步" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="309.93" y="125" width="120.94" height="83.15" as="geometry" />
+        </mxCell>
+        <mxCell id="b6" value="&lt;b&gt;极化维&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;基选择&lt;br style=&quot;font-size: 14px;&quot;&gt;补偿矩阵" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="449.77000000000004" y="125" width="120.94" height="83.15" as="geometry" />
+        </mxCell>
+        <mxCell id="b7" value="&lt;b&gt;安全约束层&lt;/b&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;单维合格→组合兼容→执行可确认→回退可恢复" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#F4E8DB;strokeColor=#BF8550;fontColor=#263640;fontSize=14;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="30.24" y="253.23" width="544.25" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="b8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;执行接口层&lt;/b&gt;&lt;br&gt;统一下发 / 时间戳确认 / ≥3 维联合&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E4EEF4;strokeColor=#5B89A6;fontColor=#263640;fontSize=10.5;fontFamily=Times New Roman,SimSun;align=center;verticalAlign=middle;dashed=0;strokeWidth=1.1;spacingTop=3;" parent="1" vertex="1">
+          <mxGeometry x="30.24" y="325.04" width="544.25" height="49.13" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.36" y="71.81" as="sourcePoint" />
+            <mxPoint x="302.36" y="94.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.36" y="230.55" as="sourcePoint" />
+            <mxPoint x="302.36" y="253.23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;strokeColor=#263640;strokeWidth=1.2;dashed=0;endArrow=block;endFill=1;fontFamily=Times New Roman,SimSun;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.36" y="302.36" as="sourcePoint" />
+            <mxPoint x="302.36" y="325.04" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
