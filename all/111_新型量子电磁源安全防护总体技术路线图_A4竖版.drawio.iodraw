@@ -114,16 +114,16 @@
           <mxGeometry x="543" y="860" width="208" height="56" as="geometry" />
         </mxCell>
         <mxCell id="goal-rail" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;目标&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;实现&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#668F89;strokeColor=#668F89;strokeWidth=1.6;dashed=0;fontColor=#FFFFFF;fontSize=17;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="26" y="1012" width="56" height="78" as="geometry" />
+          <mxGeometry x="26" y="960" width="56" height="78" as="geometry" />
         </mxCell>
         <mxCell id="goal-body" value="" style="rounded=1;arcSize=26;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="92" y="1012" width="676" height="78" as="geometry" />
+          <mxGeometry x="92" y="960" width="676" height="78" as="geometry" />
         </mxCell>
         <mxCell id="goal-title" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;实现复杂电磁环境下量子电磁源任务信息持续获取与安全运行&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#263640;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1019" width="640" height="29" as="geometry" />
+          <mxGeometry x="110" y="967" width="640" height="29" as="geometry" />
         </mxCell>
         <mxCell id="goal-subtitle" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;贡献可解释｜异常可辨识｜防护低扰动｜通路可恢复&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#668F89;fontSize=17;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1054" width="640" height="23" as="geometry" />
+          <mxGeometry x="110" y="1002" width="640" height="23" as="geometry" />
         </mxCell>
         <mxCell id="problem-edge-label" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;问题牵引&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="383.5" y="252" width="94" height="22" as="geometry" />
@@ -134,8 +134,8 @@
         <mxCell id="tech-3-edge-label" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;防护准则与动作&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="446" y="770" width="150" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="tech-4-edge-label" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;闭环调控与验证&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=15;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="446" y="930" width="150" height="24" as="geometry" />
+        <mxCell id="tech-4-edge-label" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;闭环调控与验证&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="930" width="150" height="24" as="geometry" />
         </mxCell>
         <mxCell id="problem-to-tech-1" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#263640;strokeWidth=2;dashed=0;startArrow=none;startFill=1;endArrow=block;endFill=1;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
