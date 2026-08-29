@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="总体技术路线图" id="tech-roadmap">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L1" value="研&lt;br&gt;究&lt;br&gt;课&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64748B;strokeColor=#475569;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="23" y="20" width="60" height="90" as="geometry" />
+          <mxGeometry x="23" y="-170" width="60" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L2" value="面&lt;br&gt;临&lt;br&gt;问&lt;br&gt;题" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64748B;strokeColor=#475569;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="23" y="136" width="60" height="80" as="geometry" />
+          <mxGeometry x="23" y="-40" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L3" value="关&lt;br&gt;键&lt;br&gt;技&lt;br&gt;术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64748B;strokeColor=#475569;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="23" y="246" width="60" height="620" as="geometry" />
@@ -17,16 +17,16 @@
           <mxGeometry x="23" y="896" width="60" height="76" as="geometry" />
         </mxCell>
         <mxCell id="T" value="新型量子电磁源复杂电磁环境安全防护技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9DEE7;strokeColor=#7A8699;fontSize=24;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="94" y="20" width="675" height="90" as="geometry" />
+          <mxGeometry x="94" y="-170" width="675" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P1" value="电磁能量贡献与任务信息贡献不一致，缺乏统一表征与归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5DCC3;strokeColor=#B0A47E;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="93" y="136" width="211" height="80" as="geometry" />
+          <mxGeometry x="93" y="-40" width="211" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P2" value="经典—量子混合信号多维混叠，异常干扰难以可信辨识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5DCC3;strokeColor=#B0A47E;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="326" y="136" width="211" height="80" as="geometry" />
+          <mxGeometry x="326" y="-40" width="211" height="80" as="geometry" />
         </mxCell>
         <mxCell id="P3" value="传统能量抑制易损伤量子关键特征，受扰通道难以快速恢复" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5DCC3;strokeColor=#B0A47E;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="557" y="136" width="211" height="80" as="geometry" />
+          <mxGeometry x="557" y="-40" width="211" height="80" as="geometry" />
         </mxCell>
         <mxCell id="K1" value="关键技术一：复杂散射环境下&lt;br&gt;电磁能量与任务信息解耦表征技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5DEE6;strokeColor=#8A9BAE;fontSize=14;fontStyle=1;verticalAlign=top;spacingTop=8;" parent="1" vertex="1">
           <mxGeometry x="93" y="246" width="315" height="240" as="geometry" />
@@ -78,9 +78,6 @@
         </mxCell>
         <mxCell id="G" value="研究目标：构建半实物验证平台，形成“任务信息评价—异常辨识—低扰动防护—通道重构”闭环防护能力，支撑量子探测与量子通信装备在复杂电磁环境下连续安全运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9D6C0;strokeColor=#7A8B6F;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="896" width="675" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="E0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="T" target="P2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="P1" target="K1" edge="1">
           <mxGeometry relative="1" as="geometry" />
