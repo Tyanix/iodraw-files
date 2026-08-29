@@ -68,7 +68,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="parallel-relation" value="能量信息解耦/辨识任务成分  " style="rounded=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="156.5" y="570" width="283.5" height="40" as="geometry" />
+          <mxGeometry x="156.5" y="570" width="393.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="638" width="676" height="132" as="geometry" />
