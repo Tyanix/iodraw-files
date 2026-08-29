@@ -16,8 +16,8 @@
         <mxCell id="L4" value="研&lt;br&gt;究&lt;br&gt;目&lt;br&gt;标" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#64748B;strokeColor=#475569;fontColor=#FFFFFF;fontSize=16;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="25" y="976" width="60" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="T" value="新型量子电磁源复杂电磁环境安全防护技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9DEE7;strokeColor=#7A8699;fontSize=22;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="675" height="90" as="geometry" />
+        <mxCell id="T" value="新型量子电磁源复杂电磁环境安全防护技术" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9DEE7;strokeColor=#7A8699;fontSize=24;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="96" y="100" width="675" height="90" as="geometry" />
         </mxCell>
         <mxCell id="P1" value="电磁能量贡献与任务信息贡献不一致，缺乏统一表征与归因" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E5DCC3;strokeColor=#B0A47E;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="95" y="216" width="211" height="80" as="geometry" />
