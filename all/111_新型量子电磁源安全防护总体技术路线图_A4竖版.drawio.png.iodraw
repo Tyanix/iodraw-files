@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="111-overall-roadmap" name="总体技术路线图">
-    <mxGraphModel dx="2518" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
+    <mxGraphModel dx="1049" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         <mxCell id="cvaVSJX82SgUC74F3Z5h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="parallel-relation" target="tech-3-head">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="parallel-relation" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;保护对象与任务贡献 ↔ 分离结果与异常状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="parallel-relation" value="&lt;div style=&quot;line-height: 1.25;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;能量信息解耦/辨识任务成分&lt;/span&gt;&lt;b style=&quot;font-family: SimSun, &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;&amp;nbsp;↔ 分离结果与异常状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="193" y="588.5" width="474" height="27" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
