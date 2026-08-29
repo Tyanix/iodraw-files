@@ -20,7 +20,7 @@
           <mxGeometry x="92" y="91" width="676" height="34" as="geometry" />
         </mxCell>
         <mxCell id="problem-1" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;能量贡献 ≠ 任务贡献&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;缺少统一量化映射&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#BF8550;strokeWidth=1.6;dashed=0;fontColor=#263640;fontSize=19;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="108" y="138" width="202" height="80" as="geometry" />
+          <mxGeometry x="108" y="138" width="212" height="80" as="geometry" />
         </mxCell>
         <mxCell id="problem-2" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;经典—量子多维混叠&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;低能量异常难识别&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#F4E8DB;strokeColor=#BF8550;strokeWidth=1.6;dashed=0;fontColor=#263640;fontSize=19;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="138" width="202" height="80" as="geometry" />
