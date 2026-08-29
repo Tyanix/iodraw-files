@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="111-overall-roadmap" name="总体技术路线图">
-    <mxGraphModel dx="3164" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,14 @@
           <mxGeometry x="462" y="466" width="287" height="52" as="geometry" />
         </mxCell>
         <mxCell id="cvaVSJX82SgUC74F3Z5h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="parallel-relation" target="tech-3-head">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="255" y="610" />
+              <mxPoint x="421" y="610" />
+              <mxPoint x="421" y="618" />
+              <mxPoint x="430" y="618" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="parallel-relation" value="能量信息解耦/辨识任务成分" style="rounded=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="107.75" y="560" width="293.5" height="40" as="geometry" />
