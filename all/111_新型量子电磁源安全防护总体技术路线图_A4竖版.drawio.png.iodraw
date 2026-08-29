@@ -77,7 +77,7 @@
           <mxGeometry x="107.75" y="560" width="293.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="92" y="638" width="676" height="132" as="geometry" />
+          <mxGeometry x="92" y="640" width="676" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-head" value="&lt;div style=&quot;line-height: 1.25;&quot;&gt;&lt;b style=&quot;font-family: SimSun, &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;③&lt;/span&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;量子关键特征约束下的低扰动干扰抑制技术&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=24;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;strokeWidth=1.6;dashed=0;fontColor=#FFFFFF;fontSize=20;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="92" y="640" width="676" height="48" as="geometry" />
