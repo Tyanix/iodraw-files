@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="111-overall-roadmap" name="总体技术路线图">
-    <mxGraphModel dx="1843" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="technology-rail" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;关&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;键&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;技&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;术&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#2F5F82;strokeColor=#2F5F82;strokeWidth=1.6;dashed=0;fontColor=#FFFFFF;fontSize=19;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="26" y="274" width="56" height="656" as="geometry" />
+        </mxCell>
+        <mxCell id="cvaVSJX82SgUC74F3Z5h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tech-1-body" target="parallel-relation">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tech-1-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="274" width="325" height="266" as="geometry" />
@@ -68,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="parallel-relation" value="能量信息解耦/辨识任务成分" style="rounded=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="111" y="550" width="293.5" height="40" as="geometry" />
+          <mxGeometry x="110" y="550" width="293.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="638" width="676" height="132" as="geometry" />
