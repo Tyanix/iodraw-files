@@ -80,8 +80,11 @@
         <mxCell id="tech-2-method-3" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;解码端多维信息分离&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;与量子特征提取&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.35;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="462" y="466" width="287" height="52" as="geometry" />
         </mxCell>
+        <mxCell id="cvaVSJX82SgUC74F3Z5h-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="parallel-relation" target="tech-3-head">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="parallel-relation" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;保护对象与任务贡献 ↔ 分离结果与异常状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="193" y="583" width="474" height="37" as="geometry" />
+          <mxGeometry x="193" y="583" width="474" height="27" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=29;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="638" width="676" height="150" as="geometry" />
