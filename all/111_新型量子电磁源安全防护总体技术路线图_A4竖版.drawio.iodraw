@@ -65,7 +65,7 @@
           <mxGeometry x="462" y="466" width="287" height="52" as="geometry" />
         </mxCell>
         <mxCell id="parallel-relation" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;保护对象与任务贡献 ↔ 分离结果与异常状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="193" y="576" width="474" height="38" as="geometry" />
+          <mxGeometry x="193" y="583" width="474" height="38" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=29;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="638" width="676" height="150" as="geometry" />
@@ -141,16 +141,6 @@
             <Array as="points">
               <mxPoint x="430" y="253" />
               <mxPoint x="605.5" y="253" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tech-1-to-relation" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#263640;strokeWidth=2.1;dashed=0;startArrow=none;startFill=1;endArrow=block;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="tech-1-body">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="254.5" y="564" as="sourcePoint" />
-            <mxPoint x="315" y="576" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="255" y="570" />
-              <mxPoint x="315" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
