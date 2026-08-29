@@ -52,6 +52,9 @@
         <mxCell id="tech-1-method-4" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;实际环境下电磁能量&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;与任务信息解耦&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.35;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="111" y="489" width="287" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="cvaVSJX82SgUC74F3Z5h-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tech-2-body" target="parallel-relation">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tech-2-body" value="" style="rounded=1;arcSize=5;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="443" y="274" width="325" height="266" as="geometry" />
         </mxCell>
@@ -113,7 +116,7 @@
           <mxGeometry x="383.5" y="252" width="94" height="22" as="geometry" />
         </mxCell>
         <mxCell id="relation-edge-label" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;共同支撑&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="371" y="540" width="118" height="24" as="geometry" />
+          <mxGeometry x="371" y="538" width="118" height="24" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-edge-label" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;防护准则与动作&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;fontColor=#2F5F82;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;whiteSpace=wrap;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="446" y="770" width="150" height="24" as="geometry" />
