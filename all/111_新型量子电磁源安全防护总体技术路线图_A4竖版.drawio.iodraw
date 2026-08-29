@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="111-overall-roadmap" name="总体技术路线图">
-    <mxGraphModel dx="478" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -144,12 +144,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tech-1-to-relation" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#263640;strokeWidth=2.1;dashed=0;startArrow=none;startFill=1;endArrow=block;endFill=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="tech-1-to-relation" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#263640;strokeWidth=2.1;dashed=0;startArrow=none;startFill=1;endArrow=block;endFill=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="tech-1-body">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="254.5" y="564" as="sourcePoint" />
             <mxPoint x="315" y="576" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="254.5" y="570" />
+              <mxPoint x="255" y="570" />
               <mxPoint x="315" y="570" />
             </Array>
           </mxGeometry>
