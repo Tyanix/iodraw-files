@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="总体技术路线图" id="tech-roadmap">
-    <mxGraphModel dx="1687" dy="2037" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2868" dy="2645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
         <mxCell id="K4M3" value="执行确认＋效果确认双判据与安全回退" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D8DFD4;strokeColor=#8A9B8A;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="552" y="764" width="193" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="G" value="研究目标：构建半实物验证平台，形成“任务信息评价—异常辨识—低扰动防护—通道重构”闭环防护能力，支撑量子探测与量子通信装备在复杂电磁环境下连续安全运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9D6C0;strokeColor=#7A8B6F;fontSize=14;fontStyle=1;" parent="1" vertex="1">
+        <mxCell id="G" value="构建半实物验证平台，形成“任务信息评价—异常辨识—低扰动防护—通道重构”闭环防护能力，支撑量子探测与量子通信装备在复杂电磁环境下连续安全运行" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C9D6C0;strokeColor=#7A8B6F;fontSize=14;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="93" y="896" width="675" height="76" as="geometry" />
         </mxCell>
         <mxCell id="E1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeColor=#555555;strokeWidth=1.5;" parent="1" source="P1" target="K1" edge="1">
