@@ -105,13 +105,13 @@
           <mxGeometry x="92.5" y="800" width="676" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tech-4-method-1" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;可重构信息通道架构&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;与多维资源池&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.45;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="900" width="208" height="56" as="geometry" />
+          <mxGeometry x="111" y="860" width="208" height="56" as="geometry" />
         </mxCell>
         <mxCell id="tech-4-method-2" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;双时间尺度&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;闭环调控机制&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.45;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="326" y="900" width="208" height="56" as="geometry" />
+          <mxGeometry x="327" y="860" width="208" height="56" as="geometry" />
         </mxCell>
         <mxCell id="tech-4-method-3" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;半实物原理验证&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;与分阶段测试&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=20;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.45;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="542" y="900" width="208" height="56" as="geometry" />
+          <mxGeometry x="543" y="860" width="208" height="56" as="geometry" />
         </mxCell>
         <mxCell id="goal-rail" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;目标&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;实现&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#668F89;strokeColor=#668F89;strokeWidth=1.6;dashed=0;fontColor=#FFFFFF;fontSize=17;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="26" y="1012" width="56" height="78" as="geometry" />
