@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="111-overall-roadmap" name="总体技术路线图">
-    <mxGraphModel dx="600" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
+    <mxGraphModel dx="289" dy="151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="794" pageHeight="1123" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,11 +59,13 @@
         <mxCell id="tech-1-method-4" value="&lt;div style=&quot;line-height: 1.25; font-family: SimSun, &amp;quot;Times New Roman&amp;quot;; font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;实际环境下电磁能量&lt;/span&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-family: SimSun; font-size: 18px;&quot;&gt;与任务信息解耦&lt;/span&gt;&lt;/div&gt;" style="rounded=1;arcSize=18;whiteSpace=wrap;html=1;fillColor=#E4EFEC;strokeColor=#668F89;strokeWidth=1.35;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="111" y="489" width="287" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="cvaVSJX82SgUC74F3Z5h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="tech-2-body" target="parallel-relation">
+        <mxCell id="cvaVSJX82SgUC74F3Z5h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="599.5238095238094" y="537.0000000000001" as="sourcePoint" />
+            <mxPoint x="424" y="587" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="606" y="569" />
-              <mxPoint x="430" y="569" />
+              <mxPoint x="600" y="566" />
+              <mxPoint x="424" y="566" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -86,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="parallel-relation" value="&lt;div style=&quot;line-height:1.25;font-family:SimSun,&#39;Times New Roman&#39;;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family:SimSun;&quot;&gt;保护对象与任务贡献 ↔ 分离结果与异常状态&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;arcSize=22;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="193" y="590" width="474" height="27" as="geometry" />
+          <mxGeometry x="193" y="588.5" width="474" height="27" as="geometry" />
         </mxCell>
         <mxCell id="tech-3-body" value="" style="rounded=1;arcSize=29;whiteSpace=wrap;html=1;fillColor=#E4EEF4;strokeColor=#5B89A6;strokeWidth=2;dashed=0;fontColor=#263640;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="92" y="638" width="676" height="132" as="geometry" />
