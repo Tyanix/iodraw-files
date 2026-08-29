@@ -153,8 +153,8 @@
             <mxPoint x="431" y="960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cvaVSJX82SgUC74F3Z5h-9" value="能量信息解耦/辨识任务成分" style="rounded=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="550" width="293.5" height="40" as="geometry" />
+        <mxCell id="cvaVSJX82SgUC74F3Z5h-9" value="信号多维分离/辨识异常来源" style="rounded=1;arcSize=22;fillColor=#FFFFFF;strokeColor=#9B5D52;strokeWidth=1.8;dashed=1;fontColor=#9B5D52;fontSize=18;fontFamily=SimSun;align=center;verticalAlign=middle;spacing=8;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="458.75" y="560" width="293.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
